@@ -71,4 +71,4 @@ AnitroQ は、本アプリケーション上で提供するサービス（以下
 
 本サービスの個人情報の取扱に関するお問い合せは下記までご連絡ください。
 
-email: support@anitroq.com
+email: mail@anitroq.app
